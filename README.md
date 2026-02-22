@@ -63,7 +63,6 @@ ecommerce_rtk/
 ```bash
 # 1. Clone repository
 git clone https://github.com/Nguyen-Van-Gia-Binh/EcommerceReactApp
-cd ecommerce_rtk
 
 # 2. Cài đặt dependencies
 npm install
