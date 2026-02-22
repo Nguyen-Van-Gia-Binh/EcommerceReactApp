@@ -2,8 +2,6 @@
 
 Ứng dụng thương mại điện tử đơn giản được xây dựng bằng **React** và **Redux Toolkit**, cho phép người dùng duyệt sản phẩm, thêm vào giỏ hàng, điều chỉnh số lượng và quản lý giỏ hàng.
 
-> **Bài thực hành** – Môn Web201c, Đại học FPT (Spring 2026)
-
 ---
 
 ## ✨ Tính năng
@@ -64,7 +62,7 @@ ecommerce_rtk/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/ibm-developer-skills-network/ecommerce_rtk.git
+git clone https://github.com/Nguyen-Van-Gia-Binh/EcommerceReactApp
 cd ecommerce_rtk
 
 # 2. Cài đặt dependencies
@@ -76,20 +74,6 @@ npm run dev
 # 4. Mở trình duyệt tại địa chỉ hiển thị (mặc định: http://localhost:5173)
 ```
 
-### Các lệnh khác
-
-```bash
-# Build production
-npm run build
-
-# Preview bản build
-npm run preview
-
-# Kiểm tra lint
-npm run lint
-```
-
----
 
 ## 🏗️ Kiến trúc Redux
 
